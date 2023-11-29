@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" FASTRACK",
+        "price": 200,
+        "image": "image/1.jpeg"
+    },
+    {
+        "id": 2,
+        "name":"FRENCH-C",
+        "price": 256,
+        "image": "image/2.jpeg"
+    },
+    {
+        "id": 3,
+        "name":" TIMEX",
+        "price": 290,
+        "image": "image/3.jpeg"
+    },
+    {
+        "id": 4,
+        "name":" CASIO",
+        "price": 200,
+        "image": "image/4.jpeg"
+    },
+    {
+        "id": 5,
+        "name":" CASIO",
+        "price": 300,
+        "image": "image/5.jpeg"
+    },
+    {
+        "id": 6,
+        "name":" FOSSIL",
+        "price": 200,
+        "image": "image/6.jpeg"
+    },
+    {
+        "id": 7,
+        "name":" FOSSIL",
+        "price": 200,
+        "image": "image/7.jpeg"
+    },
+    {
+        "id": 8,
+        "name":"TIMEX",
+        "price": 200,
+        "image": "image/8.jpeg"
+    }
+
+]
